@@ -47,5 +47,5 @@ Obs:. Os cenários foram efetuados e gravados em partes (Abertura e direcionamen
  
 Tela Inicial                               | Tela Login  |
   :----------------------------------------:|:--------------
-  ![](https://github.com/dklscience/Project-Reclame-aqui/blob/main/ReclameAqui/Screens/Login.PNG)  |![](Screens/TelaInicial.png) |
+  ![](https://github.com/dklscience/Project-Reclame-aqui/blob/main/ReclameAqui/Screens/Login.PNG)  |![](https://github.com/dklscience/Project-Reclame-aqui/blob/main/ReclameAqui/Screens/TelaInicial.PNG) |
 
